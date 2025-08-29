@@ -1,4 +1,4 @@
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=apheksha)
+
 
 ## 🐍 Contribution Snake
 
@@ -8,7 +8,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/apheksha/apheksha/output/github-contribution-grid-snake.svg" />
 </picture>
 
-![Metrics](https://metrics.lecoq.io/apheksha?template=classic&base.header=0&base.activity=0&languages=1&isocalendar=1&notable=1&achievements=1)
 
 <!--
 **apheksha/Apheksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
