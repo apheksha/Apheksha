@@ -1,3 +1,5 @@
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=apheksha)
+
 ## 🐍 Contribution Snake
 
 <picture>
