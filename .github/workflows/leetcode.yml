@@ -1,19 +1,23 @@
-name: Update LeetCode README
+name: Update LeetCode Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *' # every day at midnight UTC
   workflow_dispatch:
 
 jobs:
-  update:
+  update-leetcode:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Commit README changes
+      - name: Update LeetCode Stats
+        uses: iamrajiv/leetcode-stats-github-action@main
+        with:
+          username: apheksha
+      - name: Commit changes
         run: |
-          git config --local user.name "GitHub Action"
           git config --local user.email "action@github.com"
-          git add README.md
-          git commit -m "Update LeetCode heatmap"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Update LeetCode stats"
           git push
