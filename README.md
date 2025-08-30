@@ -8,6 +8,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/apheksha/apheksha/output/github-contribution-grid-snake.svg" />
 </picture>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Apheksha?theme=dark&font=Karma&ext=heatmap&titleColor=F0DB4F&stroke=ffffff)
 
 <!--
 **apheksha/Apheksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
