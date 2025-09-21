@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=ff007f&center=true&vCenter=true&width=1050&lines=Apheksha+B+-+Full-Stack+%26+AI+Developer+💻✨" alt="Typing SVG"></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=6000&pause=5000&color=ff007f&center=true&vCenter=true&width=1050&lines=Apheksha+B+-+Full-Stack+%26+AI+Developer+💻✨" alt="Typing SVG"></p>
 ---
 
 ## 🔥 About Me
