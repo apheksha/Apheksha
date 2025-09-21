@@ -1,11 +1,10 @@
 
-# 🌈 Apheksha B – Full-Stack & AI Developer 💻✨
+ Apheksha B – Full-Stack & AI Developer 💻✨
 
 <div align="center">
 <img src="https://c.tenor.com/6KRi0Y9e7yIAAAAM/coding-cat.gif" width="200" />
 </div>
 
-### 📍 Bengaluru, India | 💌 apheksha.b@gmail.com | 📞 +91 9353769235  
 [Portfolio 🌐](https://portfolio-git-main-aphekshas-projects.vercel.app) | [GitHub 💻](https://github.com/apheksha) | [LinkedIn 🔗](https://www.linkedin.com/in/apheksha)
 
 ---
