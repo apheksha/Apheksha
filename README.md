@@ -32,6 +32,3 @@ I’m a **passionate developer** building **AI-powered apps,and full-stack web p
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/apheksha/apheksha/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/apheksha/apheksha/output/github-contribution-grid-snake.svg" />
 </picture>
-
-
-for this add all these 12 stuff 
