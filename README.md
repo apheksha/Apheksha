@@ -5,7 +5,7 @@
 ## 🔥 About Me
 I’m a **passionate developer** building **AI-powered apps,and full-stack web projects**. I love creating **interactive dashboards, simulations, and production-ready platforms**.  
 
-- 🌱 Currently exploring **Generative AI, Next.js 15 & Streamlit **  
+- 🌱 Currently exploring Generative AI, Next.js 15 & Streamlit 
 
 
 ---
