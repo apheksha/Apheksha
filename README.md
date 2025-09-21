@@ -1,7 +1,9 @@
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=ff69b4&center=true&vCenter=true&width=1000&lines=Apheksha+B+-+Full-Stack+%26+AI+Developer+💻✨" alt="Typing SVG"></p>
 
-# <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=4000&pause=1000&color=FF007F&center=true&vCenter=true&width=800&lines=Apheksha+B+-+Full-Stack+%26+AI+Developer+💻✨" alt="Typing SVG">
-</p>
+<div align="center">
+  <img src="https://c.tenor.com/6KRi0Y9e7yIAAAAM/coding-cat.gif" width="200" />
+</div>
+
 ---
 
 ## 🔥 About Me
