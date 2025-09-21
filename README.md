@@ -5,7 +5,6 @@
 <img src="https://c.tenor.com/6KRi0Y9e7yIAAAAM/coding-cat.gif" width="200" />
 </div>
 
-[Portfolio 🌐](https://portfolio-git-main-aphekshas-projects.vercel.app) | [GitHub 💻](https://github.com/apheksha) | [LinkedIn 🔗](https://www.linkedin.com/in/apheksha)
 
 ---
 
