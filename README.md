@@ -11,10 +11,10 @@ I’m a **passionate developer** building **AI-powered apps,and full-stack web p
 
 ## 🛠️ Tech Stack
 **Languages:** Java | Python | C | JavaScript  
-**Web & Frameworks:** Next.js | React | Flutter | Streamlit | Node.js | Express.js  
-**Databases:** MySQL | MongoDB | NeonDB  
-**Tools:** Git/GitHub | DSA & OOP | Docker | AI APIs  
-**Other Skills:** Data Analysis 
+**Web & Frameworks:** Next.js | React |  Streamlit | Node.js | Express.js  
+**Databases:** MySQL | MongoDB  
+**Tools:** Git/GitHub | DSA & OOP | AI APIs  
+**Other Skills:** Data Analysis(using R)
 
 ---
 
