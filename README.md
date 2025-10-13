@@ -1,5 +1,5 @@
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=60&duration=2000&pause=5000&color=ff007f&center=true&vCenter=true&width=1050&lines=Apheksha+B+💻✨" alt="Typing SVG"></p>
----
+--- 
 
 ## 🔥 About Me
 I’m a **passionate developer** building **AI-powered apps,and full-stack web projects**. I love creating **interactive dashboards, simulations, and production-ready platforms**.  
