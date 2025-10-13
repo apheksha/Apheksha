@@ -7,7 +7,7 @@ I’m a **passionate developer** building **AI-powered apps,and full-stack web p
 - 🌱 Currently exploring Generative AI, Next.js 15 & Streamlit
 
  
----
+--- 
 
 ## 🛠️ Tech Stack
 **Languages:** Java | Python | C | JavaScript  
