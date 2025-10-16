@@ -11,7 +11,7 @@ I’m a **passionate developer** building **AI-powered apps,and full-stack web p
 
 ## 🛠️ Tech Stack
 **Languages:** Java | Python | C | JavaScript  
-**Web & Frameworks:** Next.js | React |  Streamlit | Next.js 
+**Web & Frameworks:** Next.js | React |  Streamlit | Next.js  
 **Databases:** MySQL |  PostgreSQL
 **Tools:** Git/GitHub | DSA & OOP | AI APIs  
 **Other Skills:** Data Analysis(using R)
