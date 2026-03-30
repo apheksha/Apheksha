@@ -18,12 +18,6 @@ I’m a **passionate developer** building **AI-powered apps,and full-stack web p
 
 ---
 
-## 📊 GitHub Stats
-![Apheksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=apheksha&show_icons=true&theme=radical&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=apheksha&layout=compact&theme=radical)
-
----
-
 ## 🐍 Contribution Snake
 
 <picture>
